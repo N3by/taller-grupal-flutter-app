@@ -29,3 +29,7 @@ Una vez que hayas instalado la aplicación, sigue los siguientes pasos para envi
 ## Código fuente
 
 El código fuente completo de esta aplicación se encuentra disponible en el repositorio de GitHub. Si deseas examinar el código o contribuir al proyecto, puedes clonar el repositorio y ejecutar la aplicación en un entorno de desarrollo de Android.
+
+## La Documentación: 
+Para acceder a la documentación de este proyecto, puedes seguir este enlace: [Documentación del proyecto "Taller grupal en Flutter"](https://docs.google.com/document/d/18GzhecsG-Ea2KRpdHSOBb3HK_S0g4CH8EuDTupWlZZY/edit?usp=sharing)
+
